@@ -1,0 +1,15 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Josue Zarzosa <josketres@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "ng-annotate-example": "./ng-annotate-typescript/run.sh"
+  },
+  "dependencies": {
+    "ng-annotate": "^1.2.1",
+    "requirejs": "^2.3.3",
+    "typescript": "^2.2.1"
+  }
+}
