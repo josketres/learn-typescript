@@ -5,11 +5,13 @@
   "author": "Josue Zarzosa <josketres@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "ng-annotate-example": "./ng-annotate-typescript/run.sh"
+    "ng-annotate-example": "./ng-annotate-typescript/run.sh",
+    "typescript-requirejs-example": "./typescript-requirejs/run.sh"
   },
   "dependencies": {
     "ng-annotate": "^1.2.1",
     "requirejs": "^2.3.3",
+    "sorcery": "^0.10.0",
     "typescript": "^2.2.1"
   }
 }
